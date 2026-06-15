@@ -5,7 +5,12 @@ Welcome to the official research portal and digital repository for **Symplectic 
 ---
 
 ## Core Monographs & Technical Treatises
+### Symplectic Active Geometrodynamics, Volume I: Foundations, Operator Structure, and Spectral Physics
+Volume I establishes the mathematical and conceptual foundations of SAGD as a
+self-consistent operator-based framework..
+* [Access Technical Manuscript (PDF)](./manuscripts/Symplectic_Active_Geometrodynamics_Volume_I_v1i.pdf)
 
+* 
 ### Symplectic Active Geometrodynamics, Volume IV: Quantum Field Theory from Spectral Geometry
 A rigorous mathematical exposition constructing quantum field theory from the underlying spectral geometry of the active manifold.
 * [Access Technical Manuscript (PDF)](./manuscripts/Symplectic_Active_Geometrodynamics_Volume_4I_v1i.pdf)
