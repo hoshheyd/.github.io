@@ -34,7 +34,11 @@ The underlying geometric structures, mathematical derivations, and numerical vis
 
 **The Cosmic Thermostat (2D GERC Model)**
 Visualizes how the SAGD framework replaces classical runaway metric curvature with a regulated high-curvature response.
-* [View Python Source Code](./simulations_and_code/cosmic_thermostat.py)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoshheyd/hoshheyd.github.io/blob/main/simulations_and_code/cosmic_thermostat.ipynb)
+* [View Source Code](./simulations_and_code/cosmic_thermostat.ipynb)
+
+![Cosmic Thermostat Plot](./simulations_and_code/cosmic_thermostat.png)
 
 *(Note: Once the simulation is executed locally, the generated curvature plot appears here.)*
 
