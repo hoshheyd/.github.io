@@ -26,13 +26,22 @@ A conceptual companion volume designed to introduce the core principles of activ
 
 The underlying geometric structures, mathematical derivations, and numerical visualizations can be explored directly within the repository architecture. Click the links below to view the source files:
 
+## Computational Resources & Spectral Mechanisms
+
+The underlying geometric structures, mathematical derivations, and numerical visualizations can be explored directly within the repository architecture.
+
 ### 1. Python Simulations
-* [The Cosmic Thermostat (2D GERC Model)](./simulations_and_code)
-* [Topological Non-Squeezing (3D Phase-Space)](./simulations_and_code/phase_space_3d.py)
+
+**The Cosmic Thermostat (2D GERC Model)**
+Visualizes how the SAGD framework replaces classical runaway metric curvature with a regulated high-curvature response.
+* [View Python Source Code](./simulations_and_code/cosmic_thermostat.py)
+
+*(Note: Once the simulation is executed locally, the generated curvature plot appears here.)*
+
+---
 
 ### 2. Geometric Schematics & Proofs
 * [The Metric-to-Torsion Channel Shift (TikZ/LaTeX)](./latex_source/channel_shift.tex)
-* [The Phase-Space Balloon (TikZ/LaTeX)](./latex_source/phase_space_balloon.tex)
 * [Complete GERC Mechanism Whitepaper (LaTeX)](./latex_source/gerc_mechanism_complete.tex)
 
 ---
