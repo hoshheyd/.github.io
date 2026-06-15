@@ -41,7 +41,10 @@ Visualizes how the SAGD framework replaces classical runaway metric curvature wi
 ![Cosmic Thermostat Plot](./simulations_and_code/cosmic_thermostat.png)
 
 *(Note: Once the simulation is executed locally, the generated curvature plot appears here.)*
-
+**SAGD Phase-Space Response: Topological Non-Squeezing**
+Illustrates the application of Gromov's Non-Squeezing Theorem to gravitational collapse. This model demonstrates how spatial compression is dynamically redirected into momentum and torsional channels to conserve symplectic volume.
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoshheyd/hoshheyd.github.io/blob/main/simulations_and_code/phase_space_3d.ipynb)
+* [View Source Code](./simulations_and_code/phase_space_3d.ipynb)
 ---
 
 ### 2. Geometric Schematics & Proofs
