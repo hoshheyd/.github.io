@@ -20,7 +20,7 @@ An extensive exploration outlining the foundational thesis that reality emerges 
 
 ### The Living Spacetime: A Non-Mathematical Introduction to SAGD
 A conceptual companion volume designed to introduce the core principles of active geometry, torsional cores, and cosmic structure without dense mathematical prerequisites.
-* [Access Introductory Text (PDF)](./manuscripts/The_Living_Spacetime_KDP.pdf)
+* [Available on Amazon (KDP)](https://www.amazon.com/dp/B0H4BBG4WQ))
 
 ---
 
