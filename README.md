@@ -27,7 +27,7 @@ A conceptual companion volume designed to introduce the core principles of activ
 The underlying geometric structures, mathematical derivations, and numerical visualizations can be explored directly within the repository architecture. Click the links below to view the source files:
 
 ### 1. Python Simulations
-* [The Cosmic Thermostat (2D GERC Model)](./simulations_and_code/cosmic_thermostat.py)
+* [The Cosmic Thermostat (2D GERC Model)](./simulations_and_code)
 * [Topological Non-Squeezing (3D Phase-Space)](./simulations_and_code/phase_space_3d.py)
 
 ### 2. Geometric Schematics & Proofs
